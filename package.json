@@ -1,6 +1,6 @@
 {
   "name": "hermione-sauce",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Serhii Kulykov",
   "license": "MIT",
   "description": "Plugin for starting up Sauce Connect when running tests with hermione",
